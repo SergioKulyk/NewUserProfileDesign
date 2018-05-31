@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenTennis</string>
+    <string name="add_your_stats">Add your stats.</string>
+    <string name="full_name">Full Name</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+</resources>
